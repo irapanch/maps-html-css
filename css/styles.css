@@ -6,15 +6,6 @@
   --light-color: #ffffff;
   --hero-background-color: #333;
   --circle-color: #f5ed32;
-
-  --pressed-state-color: #404bbf;
-  --success-color: #31d0aa;
-  --text-color: #434455;
-  --suble-text-color: #f5ed32;
-
-  --modal-overlay-color: rgba(46, 47, 66, 0.4);
-
-  --modal-background-color: #fcfcfc;
 }
 
 body {
@@ -49,6 +40,7 @@ img {
 a {
   text-decoration: none;
 }
+
 /* ---------- mobile -------------- */
 main {
   margin: auto;
@@ -91,12 +83,10 @@ h3 {
   padding-right: 10px;
   margin-bottom: 15px;
 }
-/* .general > div {
-  width: 50%;
-} */
 
 .button {
   margin-top: 39px;
+  margin-bottom: 20px;
   width: 220px;
   height: 50px;
   font-size: 14px;
